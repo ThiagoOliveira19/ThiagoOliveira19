@@ -46,10 +46,9 @@ Repositório dedicado à catalogação e visualização de ameaças mapeadas com
 
 | Ano      | Instituição/Plataforma         | Curso/Certificação                            |
 |----------|--------------------------------|-----------------------------------------------|
-| 2025     | Coursera + Google              | 
-Google Cybersecurity Professional Certificate        |
+| 2025     | Coursera + Google              | Google Cybersecurity Professional Certificate |
 | 2025     | TryHackMe / Hack The Box       | Labs: SOC Level 1, OWASP, Network Security    |
-| 2024     | Graduação em TI                | UNIDESC – TADS                                 |
+| 2024     | Graduação em TI                | UNIDESC – TADS                                |
 
 ---
 

@@ -1,7 +1,7 @@
 
 # Thiago Oliveira 🛡️  
 **Analista de Segurança da Informação Júnior @ Protect4**  
-📍 São Paulo, Brasil
+📍 Brasília, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagooliveira19/)
 [![GitHub Followers](https://img.shields.io/github/followers/ThiagoOliveira19?label=Seguidores&style=social)](https://github.com/ThiagoOliveira19)

@@ -1,7 +1,6 @@
-
 # Thiago Oliveira 🛡️  
-**Analista de Segurança da Informação Júnior @ Protect4**  
-📍 Brasília, Brasil
+**Analista de Segurança da Informação Júnior – Red Team | Pentest | OSINT**  
+📍 São Paulo, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagooliveira19/)
 [![GitHub Followers](https://img.shields.io/github/followers/ThiagoOliveira19?label=Seguidores&style=social)](https://github.com/ThiagoOliveira19)
@@ -11,89 +10,71 @@
 
 ---
 
-## 🧑‍💼 Sobre
+## 👨‍💻 Sobre
 
-Sou Analista de Segurança da Informação Júnior com foco em **detecção de ameaças, resposta a incidentes** e práticas preventivas. Possuo experiência prática em ambientes corporativos utilizando ferramentas como SIEMs, scanners de vulnerabilidades e frameworks como MITRE ATT&CK.
+Sou Analista de Segurança da Informação Júnior atuando na vertente de **Red Team**, com foco em **testes de intrusão (Pentest)**, **mapeamento de superfície de ataque**, **identificação de vulnerabilidades**, além de práticas contínuas de **Threat Hunting** e **OSINT**.
 
-Atualmente, apoio times técnicos na sustentação de controles de segurança, investigações, hardening de ativos e conscientização de usuários. Busco continuamente aprimorar minhas competências em **análise de logs, automação de segurança** e **defesa em profundidade**.
+Tenho experiência prática em ambientes corporativos e operacionais, conduzindo simulações ofensivas controladas e análises de exposição de ativos com base em metodologias como **OWASP**, **MITRE ATT&CK** e **PTES**.  
 
-![Thiago Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoOliveira19&show_icons=true&theme=merko&rank_icon=github)
+No dia a dia, realizo varreduras de rede, web e serviços externos, executo exploração controlada, elaboro relatórios técnicos e apoio times defensivos na correção de falhas. Também participo da coleta e correlação de inteligência externa, auxiliando na identificação proativa de ameaças voltadas à organização.
+
+Busco continuamente aprimorar minhas competências em **evasão de defesas, automação de reconhecimento, adversarial simulation e threat intelligence aplicada**, contribuindo para a evolução contínua das estratégias ofensivas.
+
+---
 
 ## 🛠️ Habilidades Técnicas
 
-- SIEM (Wazuh, Splunk), análise de logs
-- Frameworks: MITRE ATT&CK, OWASP Top 10, NIST CSF
-- Linux hardening e scripts em Python/Bash
-- Coleta de inteligência com ferramentas OSINT
-- Conhecimento em protocolos e topologias de rede (TCP/IP, DNS, DHCP, etc.)
+- Ferramentas: Nmap, Burp Suite, Nessus, OpenVAS, Metasploit, Recon-ng, Amass, Subfinder, TheHarvester  
+- Metodologias: MITRE ATT&CK, PTES, OWASP Top 10  
+- Linguagens/Scripts: Python, Bash, PowerShell  
+- OSINT: Reconhecimento passivo e ativo de alvos, coleta de credenciais, footprinting  
+- Plataformas: TryHackMe, Hack The Box, Pwn.college
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🔍 **Security Logs Dashboard**
-Painel desenvolvido com Python (Dash) para visualização e triagem de eventos suspeitos em tempo real. Ideal para uso em SOCs de pequeno porte.
+### 🔍 **Attack Surface Mapper**
+Ferramenta/script para mapear domínios, subdomínios, portas expostas e tecnologias em uso para análise de superfície de ataque externa.
 
-### 🔐 **MFA Automation Script**
-Script para automatizar o processo de verificação e ativação de MFA em ambientes corporativos com integração a diretórios.
+### 🧪 **Pentest Report Templates**
+Modelos profissionais (Markdown e PDF) para relatórios de pentest interno/externo, com classificação de riscos e recomendações.
 
-### 🧩 **MITRE ATT&CK Mapping**
-Repositório dedicado à catalogação e visualização de ameaças mapeadas com base nas técnicas do MITRE ATT&CK, auxiliando na priorização de mitigação.
+### 🕵️ **Threat Intel Collector**
+Script automatizado para coleta de credenciais expostas, pastas abertas, dispositivos IoT e metadados públicos vinculados a um domínio.
 
 ---
 
 ## 📚 Formação & Certificações
 
-| Ano      | Instituição/Plataforma         | Curso/Certificação                            |
-|----------|--------------------------------|-----------------------------------------------|
-| 2025     | Coursera + Google              | Google Cybersecurity Professional Certificate |
-| 2025     | TryHackMe / Hack The Box       | Labs: SOC Level 1, OWASP, Network Security    |
-| 2024     | Graduação em TI                | UNIDESC – TADS                                |
+| Ano      | Instituição / Plataforma        | Curso / Certificação                             |
+|----------|----------------------------------|--------------------------------------------------|
+| 2025     | Coursera + Google                | Detection & Response                             |
+| 2025     | Ridge Security                   | Ridge Security Certified Professional            |
+| 2025     | TryHackMe / Hack The Box         | Red Team Paths, Pentest Labs, OWASP Series       |
+| 2024     | Graduação em TI – UNIDESC        | TADS – Análise e Desenvolvimento de Sistemas     |
+| (em curso) | Alura / HackSec / Pwn.college | Fundamentos de Exploração e Segurança Ofensiva   |
 
 ---
 
-## 📈 Objetivos
+## 🎯 Objetivos
 
-- Consolidar expertise em **Detecção & Resposta (Blue Team)**  
-- Obter certificações reconhecidas (CompTIA CySA+, OSCP)  
-- Criar conteúdo técnico, labs e ferramentas voltadas à cibersegurança defensiva  
-- Colaborar com projetos open source de segurança
+- Aprofundar conhecimento em **simulações de adversários (Red Teaming)**  
+- Obter certificações como **eJPT**, **OSCP**, **CRTO**  
+- Contribuir com ferramentas e conteúdos voltados à **inteligência ofensiva e análise de superfície de ataque**  
+- Participar de **CTFs**, projetos open source e labs colaborativos  
 
 ---
 
-## 💬 Como me encontrar
+## 📫 Como me encontrar
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/thiagooliveira19/)  
 - 💼 GitHub: [@ThiagoOliveira19](https://github.com/ThiagoOliveira19)  
-- ✉️ thiagoprotect4@gmail.com
+- ✉️ thiago@exemplo.com *(substitua pelo seu e-mail real)*
 
 ---
 
 ## 📜 Licença
 
 Este repositório e seus projetos estão licenciados sob a [MIT License](./LICENSE).
-
-###  🔧 Study languages
-<div style ="display: inline_block"><br/>
-    <img align="center" alt="tor" src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
-    <img align="center" alt="awss3" src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img align="center" alt="np" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img align="center" alt="ml" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-    <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="jm" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-     
-
-
-
-
-
-
-</div>
-
-### 📈 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveira19&layout=donut-vertical&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+ccccccccccccccccccccccccccccccccccccccccc

@@ -1,6 +1,8 @@
-# Thiago Oliveira 🛡️  
+ # Thiago Oliveira 🛡️  
 **Analista de Segurança da Informação Júnior – Red Team | Pentest | OSINT**  
-📍 São Paulo, Brasil
+📍 Brasília, Brasil
+
+The use of any of these repositories is allowed and free for everyone.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagooliveira19/)
 [![GitHub Followers](https://img.shields.io/github/followers/ThiagoOliveira19?label=Seguidores&style=social)](https://github.com/ThiagoOliveira19)
@@ -52,8 +54,8 @@ Script automatizado para coleta de credenciais expostas, pastas abertas, disposi
 | 2025     | Coursera + Google                | Detection & Response                             |
 | 2025     | Ridge Security                   | Ridge Security Certified Professional            |
 | 2025     | TryHackMe / Hack The Box         | Red Team Paths, Pentest Labs, OWASP Series       |
-| 2024     | Graduação em TI – UNIDESC        | TADS – Análise e Desenvolvimento de Sistemas     |
-| (em curso) | Alura / HackSec / Pwn.college | Fundamentos de Exploração e Segurança Ofensiva   |
+| 2025     | Graduação em TI – UNIDESC        | TADS – Análise e Desenvolvimento de Sistemas     |
+| (em curso) |  / HackSec / Pwn.college       | Fundamentos de Exploração e Segurança Ofensiva   |
 
 ---
 
@@ -74,7 +76,3 @@ Script automatizado para coleta de credenciais expostas, pastas abertas, disposi
 
 ---
 
-## 📜 Licença
-
-Este repositório e seus projetos estão licenciados sob a [MIT License](./LICENSE).
-ccccccccccccccccccccccccccccccccccccccccc

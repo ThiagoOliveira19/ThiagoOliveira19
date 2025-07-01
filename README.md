@@ -69,7 +69,7 @@ Script automatizado para coleta de credenciais expostas, pastas abertas, disposi
 
 
 ---
-###  🔧 Study languagesAdd commentMore actions
+###  🔧 Study languages
 <div style ="display: inline_block"><br/>
     <img align="center" alt="tor" src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
     <img align="center" alt="awss3" src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
@@ -81,7 +81,5 @@ Script automatizado para coleta de credenciais expostas, pastas abertas, disposi
     <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="jm" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
----
-### 📈 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoOliveira19&layout=donut-vertical&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

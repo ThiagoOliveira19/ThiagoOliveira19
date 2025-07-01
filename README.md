@@ -51,11 +51,11 @@ Script automatizado para coleta de credenciais expostas, pastas abertas, disposi
 
 | Ano      | Instituição / Plataforma        | Curso / Certificação                             |
 |----------|----------------------------------|--------------------------------------------------|
-| 2025     | Coursera + Google                | Detection & Response                             |
+| 2025     | Coursera + Google                | Google Cybersecurity Professional Certificate    |
 | 2025     | Ridge Security                   | Ridge Security Certified Professional            |
 | 2025     | TryHackMe / Hack The Box         | Red Team Paths, Pentest Labs, OWASP Series       |
 | 2025     | Graduação em TI – UNIDESC        | TADS – Análise e Desenvolvimento de Sistemas     |
-| (em curso) |  / HackSec / Pwn.college       | Fundamentos de Exploração e Segurança Ofensiva   |
+| (em curso) |    HackSec / Pwn.college       | Fundamentos de Exploração e Segurança Ofensiva   |
 
 ---
 
